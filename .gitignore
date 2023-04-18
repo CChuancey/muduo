@@ -1,2 +1,5 @@
+/build
+/.cache
+/.vscode
 *.swp
 compile_commands.json
